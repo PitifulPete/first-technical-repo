@@ -1,3 +1,3 @@
 # first-technical-repo
-An attempt to create a technical document using Git  
+### An attempt to create a technical document using Git  
 **Mansplaining** is an internet term used in a situation where a man tries to explain an obvious concept to a woman or tries to explain a concept, indulge in a conversation that is generally more familiar or relatable by women. For instance: _a woman tweets something relatable and intentionally exaggerated about menstruation, a male medical doctor sees the tweet and tries to break down why the tweet is exagerrated without considering the possibility that the tweet is targeted at women who live that experience and intentionally exaggerated to make funny._ In this instance, It'd be perfect to reply the man's attempt at breaking down the tweet with "look at you mansplaining, lmao."
